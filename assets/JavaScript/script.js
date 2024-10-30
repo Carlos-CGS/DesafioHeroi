@@ -16,7 +16,7 @@ function classificarHeroi() {
     } else if (xp >= 5001 && xp <= 6000) {
         nivel = "Platina";
     } else if (xp >= 6001 && xp <= 7000) {
-        nivel = "Diamente";
+        nivel = "Diamante";
     } else if (xp >= 7001 && xp <= 8000) {
         nivel = "Mestre";
     } else if (xp >= 8001 && xp <= 9000) {
